@@ -1,0 +1,11 @@
+F:\Projetos\Primeiro\Inicial\Primeiro\bin\Release\Primeiro.exe.config
+F:\Projetos\Primeiro\Inicial\Primeiro\bin\Release\Primeiro.exe
+F:\Projetos\Primeiro\Inicial\Primeiro\bin\Release\Primeiro.pdb
+F:\Projetos\Primeiro\Inicial\Primeiro\obj\Release\Primeiro.csproj.AssemblyReference.cache
+F:\Projetos\Primeiro\Inicial\Primeiro\obj\Release\Primeiro.csproj.SuggestedBindingRedirects.cache
+F:\Projetos\Primeiro\Inicial\Primeiro\obj\Release\Primeiro.Form1.resources
+F:\Projetos\Primeiro\Inicial\Primeiro\obj\Release\Primeiro.Properties.Resources.resources
+F:\Projetos\Primeiro\Inicial\Primeiro\obj\Release\Primeiro.csproj.GenerateResource.cache
+F:\Projetos\Primeiro\Inicial\Primeiro\obj\Release\Primeiro.csproj.CoreCompileInputs.cache
+F:\Projetos\Primeiro\Inicial\Primeiro\obj\Release\Primeiro.exe
+F:\Projetos\Primeiro\Inicial\Primeiro\obj\Release\Primeiro.pdb

@@ -1,0 +1,8 @@
+F:\Projetos\Curso\Colecao\Colecao\bin\Debug\Colecao.exe.config
+F:\Projetos\Curso\Colecao\Colecao\bin\Debug\Colecao.exe
+F:\Projetos\Curso\Colecao\Colecao\bin\Debug\Colecao.pdb
+F:\Projetos\Curso\Colecao\Colecao\obj\Debug\Colecao.csproj.AssemblyReference.cache
+F:\Projetos\Curso\Colecao\Colecao\obj\Debug\Colecao.csproj.SuggestedBindingRedirects.cache
+F:\Projetos\Curso\Colecao\Colecao\obj\Debug\Colecao.csproj.CoreCompileInputs.cache
+F:\Projetos\Curso\Colecao\Colecao\obj\Debug\Colecao.exe
+F:\Projetos\Curso\Colecao\Colecao\obj\Debug\Colecao.pdb

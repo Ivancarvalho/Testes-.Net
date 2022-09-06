@@ -1,0 +1,8 @@
+F:\Projetos\Curso\Coversao\Coversao\bin\Debug\Coversao.exe.config
+F:\Projetos\Curso\Coversao\Coversao\bin\Debug\Coversao.exe
+F:\Projetos\Curso\Coversao\Coversao\bin\Debug\Coversao.pdb
+F:\Projetos\Curso\Coversao\Coversao\obj\Debug\Coversao.csproj.AssemblyReference.cache
+F:\Projetos\Curso\Coversao\Coversao\obj\Debug\Coversao.csproj.SuggestedBindingRedirects.cache
+F:\Projetos\Curso\Coversao\Coversao\obj\Debug\Coversao.csproj.CoreCompileInputs.cache
+F:\Projetos\Curso\Coversao\Coversao\obj\Debug\Coversao.exe
+F:\Projetos\Curso\Coversao\Coversao\obj\Debug\Coversao.pdb

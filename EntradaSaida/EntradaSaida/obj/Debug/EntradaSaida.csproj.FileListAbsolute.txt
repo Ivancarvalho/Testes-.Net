@@ -1,0 +1,8 @@
+F:\Projetos\Entrada e saida de Dados\EntradaSaida\EntradaSaida\bin\Debug\EntradaSaida.exe.config
+F:\Projetos\Entrada e saida de Dados\EntradaSaida\EntradaSaida\bin\Debug\EntradaSaida.exe
+F:\Projetos\Entrada e saida de Dados\EntradaSaida\EntradaSaida\bin\Debug\EntradaSaida.pdb
+F:\Projetos\Entrada e saida de Dados\EntradaSaida\EntradaSaida\obj\Debug\EntradaSaida.csproj.AssemblyReference.cache
+F:\Projetos\Entrada e saida de Dados\EntradaSaida\EntradaSaida\obj\Debug\EntradaSaida.csproj.SuggestedBindingRedirects.cache
+F:\Projetos\Entrada e saida de Dados\EntradaSaida\EntradaSaida\obj\Debug\EntradaSaida.csproj.CoreCompileInputs.cache
+F:\Projetos\Entrada e saida de Dados\EntradaSaida\EntradaSaida\obj\Debug\EntradaSaida.exe
+F:\Projetos\Entrada e saida de Dados\EntradaSaida\EntradaSaida\obj\Debug\EntradaSaida.pdb
