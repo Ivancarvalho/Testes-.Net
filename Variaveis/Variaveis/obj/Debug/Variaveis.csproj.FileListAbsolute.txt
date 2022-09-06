@@ -1,0 +1,8 @@
+F:\Projetos\Variaveis\Variaveis\Variaveis\bin\Debug\Variaveis.exe.config
+F:\Projetos\Variaveis\Variaveis\Variaveis\bin\Debug\Variaveis.exe
+F:\Projetos\Variaveis\Variaveis\Variaveis\bin\Debug\Variaveis.pdb
+F:\Projetos\Variaveis\Variaveis\Variaveis\obj\Debug\Variaveis.csproj.AssemblyReference.cache
+F:\Projetos\Variaveis\Variaveis\Variaveis\obj\Debug\Variaveis.csproj.SuggestedBindingRedirects.cache
+F:\Projetos\Variaveis\Variaveis\Variaveis\obj\Debug\Variaveis.csproj.CoreCompileInputs.cache
+F:\Projetos\Variaveis\Variaveis\Variaveis\obj\Debug\Variaveis.exe
+F:\Projetos\Variaveis\Variaveis\Variaveis\obj\Debug\Variaveis.pdb
